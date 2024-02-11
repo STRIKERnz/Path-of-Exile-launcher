@@ -3,7 +3,7 @@ Over the years I've messed around making different launchers in ahk and python a
 This is just a simple launcher that you can open Path and all of the scripts or programs that you run along side it.
 
 Features: 
-- Add all the paths to the scritps you want to launch
+- Add all the paths to the programs/scripts you want to launch
 - Remove paths
 - Save current paths
 - Launch all saved paths
