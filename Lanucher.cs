@@ -63,8 +63,8 @@ namespace PathOfExile_Launcher
         }
 
 
-        private void CloseAllOpenedPrograms()
-        {
+        //private void CloseAllOpenedPrograms()
+        //{
             ////foreach (var path in allProgramPaths)
             ////{
             ////    try
@@ -89,12 +89,12 @@ namespace PathOfExile_Launcher
 
             //    Process.GetProcessesByName(program).ToList().ForEach(p => p.Kill());
             //}
-        }
+        //}
 
-        private void btnCloseAllPrograms_Click(object sender, EventArgs e)
-        {
-            CloseAllOpenedPrograms();
-        }
+        //private void btnCloseAllPrograms_Click(object sender, EventArgs e)
+        //{
+        //    CloseAllOpenedPrograms();
+        //}
 
 
 
