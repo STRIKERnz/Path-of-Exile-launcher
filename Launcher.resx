@@ -177,7 +177,7 @@
     <value>0</value>
   </data>
   <data name="btnAddPath.Text" xml:space="preserve">
-    <value>Add Path</value>
+    <value>Add path</value>
   </data>
   <data name="&gt;&gt;btnAddPath.Name" xml:space="preserve">
     <value>btnAddPath</value>
@@ -222,7 +222,7 @@
     <value>0</value>
   </data>
   <data name="btnRemovePath.Text" xml:space="preserve">
-    <value>Remove Path</value>
+    <value>Remove path</value>
   </data>
   <data name="&gt;&gt;btnRemovePath.Name" xml:space="preserve">
     <value>btnRemovePath</value>
